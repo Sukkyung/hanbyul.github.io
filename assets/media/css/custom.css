@@ -1,0 +1,6 @@
+/* Hide the top About icon in resume-biography-3 */
+.resume-biography-3 .section-icon,
+.resume-biography-3 .biography-icon,
+.resume-biography-3 svg {
+  display: none !important;
+}

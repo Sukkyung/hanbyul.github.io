@@ -6,6 +6,11 @@
 # ══════════════════════════════════════════════════════════════════════════════
 hugoblox:
   schema: "2.0"
+  ...
+  assets:
+    custom_css:
+      - css/custom.css
+
 
   # ────────────────────────────────────────────────────────────────────────────
   # IDENTITY
@@ -106,7 +111,7 @@ hugoblox:
   footer:
     # Footer style variant
     style: minimal                      # minimal | columns | centered
-    language_switcher: true
+    language_switcher: false
     # Custom footer text (HTML supported)
     text: ""
 
@@ -116,7 +121,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   copyright:
     # Copyright notice - supports {year}, {name}, {license} placeholders
-    notice: "© 2026 Han Byul. This work is licensed under CC BY NC ND 4.0"
+    notice: "© {2026} {Han Byul}. All rights reserved."
     license:
       type: cc                          # cc | custom
       allow_derivatives: false
@@ -173,7 +178,7 @@ hugoblox:
   # Site search
   # ────────────────────────────────────────────────────────────────────────────
   search:
-    enable: true
+    enable: false
     # Trending/suggested search terms
     suggestions: []
     # Quick action shortcuts in search modal
