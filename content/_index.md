@@ -64,7 +64,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: 음반경력
       filters:
         folders:
           - publications
