@@ -4,24 +4,21 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Bio
+  - name: 홈
     url: /
     weight: 10
-  - name: Papers
-    url: /#papers
+  - name: 음반
+    url: /#discography
     weight: 11
-  - name: Talks
-    url: /#talks
+  - name: 연주
+    url: /#performances
     weight: 12
-  - name: News
-    url: /#news
+  - name: 세션·방송·영화
+    url: /#sessions
     weight: 13
-  - name: Experience
-    url: experience/
+  - name: 교육경력
+    url: /#teaching
     weight: 20
-  - name: Projects
-    url: projects/
-    weight: 30
-  - name: Courses
-    url: courses/
+  - name: 연락
+    url: /#contact
     weight: 40
