@@ -16,9 +16,9 @@ sections:
       username: me
       text: ''
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
+      # button:
+      #  text: Download CV
+      #  url: uploads/resume.pdf
       headings:
         about: ''
         education: ''
@@ -59,7 +59,7 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: 4
   - block: collection
     content:
       title: Recent Publications
