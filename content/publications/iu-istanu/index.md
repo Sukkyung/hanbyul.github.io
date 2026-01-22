@@ -1,7 +1,7 @@
 ---
-title: "아이유 – 〈관객이 될게〉"
+title: "아이유 - 관객이 될게 (I stan U)"
 featured: true
-weight: 3
+weight: 4
 
 #authors:
 #  - me
@@ -15,7 +15,7 @@ image:
 ---
 ![](featured.jpg)
 
-![](credit.jpg)  # (선택) 두 번째 이미지가 있으면 추가
+![](credit.jpg)
 
-![](album.jpg)  # (선택) 두 번째 이미지가 있으면 추가
+![](album.jpg)
 
