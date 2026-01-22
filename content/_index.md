@@ -13,6 +13,13 @@ sections:
   - block: resume-biography-3
     content:
       username: me
+      headings:
+        about: ""        # ← About 헤더 텍스트 비움
+        education: ""    # (이미 한 것)
+#        interests: ""    # (있다면 같이)
+      show_about: false  # ← 이 한 줄이 핵심 (아이콘까지 제거)
+
+
 
     # ✅ 여기부터가 핵심: bio를 me.yaml에서 읽지 말고,
     # 이 블록 text로 직접 표시하게 함 (문단 유지)
