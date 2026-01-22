@@ -1,7 +1,6 @@
 ---
 title: 🎞️ 사진
 cms_exclude: true
-cms_exclude: true
 
 # View.
 view: citation
