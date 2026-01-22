@@ -4,15 +4,14 @@ featured: true
 weight: 1
 share: false
 event: false
+show_date: false
 authors:
   - me
 
-summary: ""
+#summary: ""
 image:
   caption: ""
 ---
-
-![](featured.jpg) 
 
 ![](KakaoTalk1.jpg) 
 
