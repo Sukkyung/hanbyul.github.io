@@ -3,7 +3,6 @@ title: "수업 및 연주 사진"
 featured: true
 weight: 1
 share: false
-share: false
 authors:
   - me
 
