@@ -14,8 +14,8 @@ sections:
     content:
       username: me
       headings:
-        about: ""        # ← About 헤더 텍스트 비움
-        education: ""    # (이미 한 것)
+        about: "Bio"        # ← About 헤더 텍스트 비움
+        education: "Professional"    # (이미 한 것)
 #        interests: ""    # (있다면 같이)
       show_about: false  # ← 이 한 줄이 핵심 (아이콘까지 제거)
 
