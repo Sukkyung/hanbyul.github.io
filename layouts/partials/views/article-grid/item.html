@@ -1,0 +1,17 @@
+{{/* Override HugoBlox article-grid card to remove meta (date / reading time / read more) */}}
+
+<article class="hb-card">
+  {{ if .Params.image }}
+    {{ partial "components/image" (dict "page" . "image" .Params.image "fill" true) }}
+  {{ end }}
+
+  <div class="hb-card-body">
+    <h3 class="hb-card-title">
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </h3>
+
+    {{ with .Summary }}
+      <p class="hb-card-text">{{ . }}</p>
+    {{ end }}
+  </div>
+</article>
