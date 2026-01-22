@@ -45,7 +45,7 @@ sections:
 
   - block: markdown
     content:
-      title: '👩🏻‍🏫 교육경력'
+      title: '👩🏻‍🏫 교육 경력'
       subtitle: ''
       text: | 
         - 레슨 경력 12년차
@@ -64,7 +64,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: 💿 음반경력
+      title: 💿 음반 경력
       count: 0
       filters:
         folders:
@@ -77,16 +77,41 @@ sections:
       show_reading_time: false  # ← "1분 읽기" 숨김
       show_authors: false       # ← (선택) 한별 이름도 숨김
 
-  - block: collection
+#  - block: collection
+#    content:
+#      title: Recent Publications
+#      text: ''
+#      filters:
+#        folders:
+#          - publications
+#        exclude_featured: false
+#    design:
+#      view: citation
+
+  - block: markdown
     content:
-      title: Recent Publications
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
+      title: '🎻 연주 경력'
+      subtitle: ''
+      text: | 
+        - 한국문화예술위원회 주관 ‘찾아가는 음악회’
+        - 코리안심포니오케스트라 오페라 「삼손과 데릴라」 
+        - KSO 국제지휘콩쿠르 결선-코리안심포니오케스트라 
+        - 경희대학교 챔버 오케스트라 협연 
+        - 광진문화재단, 동대문구청 등 공공·문화기관 연주를 포함한 다수의 연주 및 공연 활동 경험 
+        
+        [세션 및 방송·영화 연주 경력] 
+        - KBS 임영웅 단독 콘서트 「We’re Hero」 
+        - 영화 「말할 수 없는 비밀」 리메이크
+        - 크러쉬 「Everything happens to me」 MV
+        - 넷플릭스 드라마 「반짝이는 워터멜론」
+        - SBS 드라마 「브람스를 좋아하세요」
+        - OCN 드라마 「작은 신의 아이들」
+        - Mnet 「엠카운트다운」 – ASTRO 〈피어나〉
+        - KBS 「나는 대한민국」 – 이승철 〈그런 사람 또 없습니다〉
+        - KBS 「불후의 명곡」 – 서지안 & 서제이 〈돌아가는 삼각지〉
     design:
-      view: citation
+      columns: '1'
+
   - block: collection
     id: talks
     content:
