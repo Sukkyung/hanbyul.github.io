@@ -1,7 +1,7 @@
 ---
-title: "아이유 -〈밤산책〉"
+title: "소수빈 -〈그대라는 선물〉, 〈해야만 할까요〉"
 featured: true
-weight: 1
+weight: 6
 
 #authors:
 #  - me
@@ -14,7 +14,12 @@ image:
   preview_only: false
 ---
 
-![](credit.jpg) 폭싹 속았수다 OST
+![](featured.jpg)
 
 ![](album.jpg) 
 
+![](concert.jpg)
+
+![](credit1.jpg) 
+
+![](credit2.jpg)

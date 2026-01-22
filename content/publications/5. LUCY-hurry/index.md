@@ -1,7 +1,7 @@
 ---
-title: "아이유 -〈밤산책〉"
+title: "LUCY -〈다급해져 (feat. 원슈타인)〉"
 featured: true
-weight: 1
+weight: 5
 
 #authors:
 #  - me
@@ -14,7 +14,7 @@ image:
   preview_only: false
 ---
 
-![](credit.jpg) 폭싹 속았수다 OST
+![](credit.jpg) 
 
 ![](album.jpg) 
 
