@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: 🎞️ 사진
 cms_exclude: true
 #url: talk
 

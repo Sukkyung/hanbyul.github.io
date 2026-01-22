@@ -119,14 +119,18 @@ sections:
       columns: '1'
 
   - block: collection
-    id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: 🎞️ 사진
+      count: 0
+      sort_by: weight
+      sort_order: asc
       filters:
         folders:
           - events
     design:
-      view: card
+      view: image-grid
+      columns: 4
+
 
 #  - block: cta-card
 #    demo: true # Only display this section in the HugoBlox Kit demo site
