@@ -17,6 +17,18 @@ role: Violist · Session Musician
 bio: |
   안녕하세요! 😊 서울/송도 소재 초등학교·고등학교 방과후 수업부터 국제학교 학생, 성인 취미생까지 다양한 연령과 수준의 학생들을 개인 맞춤형으로 지도하고 있는 바이올린·비올라 강사입니다.
 
+🎻 저는 경희대학교에 18살에 조기 입학하여 졸업 후 현재까지 12년간 개인 레슨 및 학교 방과후 교사, 오케스트라 강사로 활동해오고 있으며,
+
+🎻 아이유, 정승환, LUCY 밴드, 소수빈, 폭싹속았수다 OST 등 국내 아티스트 음원 녹음에 참여하며, 클래식 뿐만 아니라 K-pop, 드라마 OST 등 다양한 장르를 넘나드는 음악적 경험을 쌓아오고 있습니다.
+
+🎻 수업은 학생 한 명, 한 명의 수준과 성향에 맞춘 맞춤형 티칭으로 진행됩니다. 특히 바른 자세와 기본기는 연주의 가장 중요한 토대이기 때문에 초보자 분들도 무리 없이, 정확한 자세로 배울 수 있도록 꼼꼼하게 지도합니다.
+
+또한 취미로 악기를 배우는 분들이 흥미를 잃지 않도록 OST, 팝송, 원하는 곡 등 다양한 레퍼토리를 활용하여 즐기면서 실력을 쌓을 수 있는 수업을 지향합니다.
+
+저는 수업 시간 하나하나를 소중히 여기며, 학생들이 가장 효율적으로, 그리고 음악을 즐기며 성장할 수 있도록 최선을 다해 함께하겠습니다 💛
+
+📩 언제든지 편하게 문의 주세요! 개개인에 맞는 맞춤 수업으로 도와드리겠습니다 🎶
+
 #affiliations:
 #  - name: Meta AI
 #    url: https://ai.meta.com/
@@ -36,78 +48,78 @@ bio: |
 #  - icon: academicons/orcid
 #    url: https://orcid.org/0000-0002-1825-0097
 
-interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+#interests:
+#  - Large Language Models
+#  - Computer Vision
+#  - Reinforcement Learning
+#  - AI Ethics
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
-    summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+  - degree: 기악과(18살 조기입학) 비올라 전공
+    institution: 경희대학교
+  #  start: 2015-09-01
+  #  end: 2019-06-30
+  #  summary: |
+  #    Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+  #  button:
+  #    text: Download dissertation
+  #    url: /resume.pdf
+  #    icon: hero/arrow-down-tray
+  - degree: 레슨 경력 12년차
+    institution: 초등학교부터 대기업 성인반까지 지도
+  #  start: 2013-09-01
+  #  end: 2015-05-31
+  #- degree: BS Computer Science
+  #  institution: MIT
+  #  start: 2009-09-01
+  #  end: 2013-05-31
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
-    summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+  - role: Violist · Session Musician
+  #  org: Meta AI
+  #  start: 2020-01-01
+  #  summary: |
+  #    Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
+  #  button:
+  #    text: View portfolio
+  #    url: /
+  #    icon: hero/arrow-down-tray
+  #- role: AI Research Intern
+  #  org: OpenAI
+  #  start: 2019-06-01
+  #  end: 2019-12-31
+  #  summary: |
+  #    Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
 
-skills:
-  - name: Technical Skills
-    items:
-      - label: Python
-        level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
-        level: 4
-  - name: Research & Communication
-    items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
-        level: 4
+#skills:
+#  - name: Technical Skills
+#    items:
+#      - label: Python
+#        level: 5
+#      - label: Machine Learning
+#        level: 5
+#      - label: Cloud Computing
+#        level: 4
+#  - name: Research & Communication
+#    items:
+#      - label: Academic Writing
+#        level: 5
+#      - label: Conference Presentations
+#        level: 4
+#      - label: Grant Proposals
+#        level: 4
 
-languages:
-  - name: English
-    level: 5
-    label: Native
-  - name: Spanish
-    level: 4
-    label: Fluent
+#languages:
+#  - name: English
+#    level: 5
+#    label: Native
+#  - name: Spanish
+#    level: 4
+#    label: Fluent
 
-awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+#awards:
+#  - title: Best Paper Award
+#    awarder: NeurIPS
+#    date: "2022-12-01"
+#    summary: Awarded for groundbreaking work on efficient training of large models.
+#    icon: hero/trophy
