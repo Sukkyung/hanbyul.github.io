@@ -128,7 +128,7 @@ sections:
         folders:
           - events
     design:
-      view: image-grid
+      view: card
       columns: 4
 
 
