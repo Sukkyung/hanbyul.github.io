@@ -20,14 +20,19 @@ sections:
       columns: '2'
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '👩🏻‍🏫 교육경력'
       subtitle: ''
-      text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+      text: | 
+        - 레슨 경력 12년차
+        - 송도 포스코 사내 바이올린 강사 
+        - 인천 해밀학교 바이올린, 비올라 강사 
+        - 서울 은광 여자고등학교 비올라 강사 
+        - 서울 대진여자고등학교 오케스트라 강사 
+        - 서울 용문고등학교 방과후 수업 강사 
+        - 경희 한의대 선음 오케스트라 강사 
+        - 서울 수암초등학교 오케스트라 강사
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
+        초등학교부터 대기업 성인반까지 다양한 연령과 수준의 학생들을 지도해왔습니다.
     design:
       columns: '1'
   - block: collection
