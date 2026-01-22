@@ -10,7 +10,7 @@ design:
   spacing: '6rem'
 
 sections:
-  - block: about.biography
+  - block: resume-biography-3
     content:
       username: me
     design:
