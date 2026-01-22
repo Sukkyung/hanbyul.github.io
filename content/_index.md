@@ -44,6 +44,7 @@ sections:
       columns: '2'
 
   - block: markdown
+    id: education
     content:
       title: '👩🏻‍🏫 교육 경력'
       subtitle: ''
@@ -62,7 +63,7 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: papers
+    id: discography
     content:
       title: 💿 음반 경력
       count: 0
@@ -89,6 +90,7 @@ sections:
 #      view: citation
 
   - block: markdown
+    id: performances
     content:
       title: '🎻 연주 경력'
       subtitle: ''
@@ -119,6 +121,7 @@ sections:
       columns: '1'
 
   - block: collection
+    id: photos
     content:
       title: 🎞️ 사진
       count: 0

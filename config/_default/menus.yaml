@@ -7,18 +7,16 @@ main:
   - name: 홈
     url: /
     weight: 10
+  - name: 교육
+    url: /#education
+    weight: 20
   - name: 음반
     url: /#discography
-    weight: 11
+    weight: 30
   - name: 연주
     url: /#performances
-    weight: 12
-  - name: 세션·방송·영화
-    url: /#sessions
-    weight: 13
-  - name: 교육경력
-    url: /#teaching
-    weight: 20
-  - name: 연락
-    url: /#contact
     weight: 40
+  - name: 사진
+    url: /#photos
+    weight: 50
+
