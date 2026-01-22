@@ -15,7 +15,7 @@ image:
 ---
 ![](featured.jpg)
 
-![](credit.jpg)
-
 ![](album.jpg)
+
+![](credit.jpg)
 

@@ -64,7 +64,8 @@ sections:
   - block: collection
     id: papers
     content:
-      title: 음반경력
+      title: 💿 음반경력
+      count: 0
       filters:
         folders:
           - publications
