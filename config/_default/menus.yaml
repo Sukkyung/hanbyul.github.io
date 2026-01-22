@@ -7,16 +7,16 @@ main:
   - name: 홈
     url: /
     weight: 10
-  - name: 교육
+  - name: 교육경력
     url: /#education
     weight: 20
-  - name: 음반
+  - name: 음반경력
     url: /#discography
     weight: 30
-  - name: 연주
+  - name: 연주경력
     url: /#performances
     weight: 40
-  - name: 사진
+  - name: 사진모음
     url: /#photos
     weight: 50
 
