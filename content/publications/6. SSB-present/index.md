@@ -2,7 +2,7 @@
 title: "소수빈 -〈그대라는 선물〉, 〈해야만 할까요〉"
 featured: true
 weight: 6
-
+share: false
 #authors:
 #  - me
 

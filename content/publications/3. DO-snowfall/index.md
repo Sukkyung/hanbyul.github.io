@@ -2,7 +2,7 @@
 title: "도경수 (D.O.) -〈밤에 내린 눈〉"
 featured: true
 weight: 3
-
+share: false
 #authors:
 #  - me
 

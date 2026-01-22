@@ -2,7 +2,7 @@
 title: "스윗소로우 -〈사랑이었던 거야〉"
 featured: true
 weight: 7
-
+share: false
 #authors:
 #  - me
 

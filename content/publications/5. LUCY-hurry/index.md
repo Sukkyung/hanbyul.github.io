@@ -2,7 +2,7 @@
 title: "LUCY -〈다급해져 (feat. 원슈타인)〉"
 featured: true
 weight: 5
-
+share: false
 #authors:
 #  - me
 

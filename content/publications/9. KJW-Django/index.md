@@ -2,7 +2,7 @@
 title: "강지원 -〈Django〉, 〈White Christmas〉"
 featured: true
 weight: 9
-
+share: false
 #authors:
 #  - me
 

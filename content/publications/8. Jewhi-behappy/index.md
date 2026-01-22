@@ -2,7 +2,7 @@
 title: "제휘 -〈행복하자〉"
 featured: true
 weight: 8
-
+share: false
 #authors:
 #  - me
 

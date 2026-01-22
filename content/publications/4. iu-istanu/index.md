@@ -2,7 +2,7 @@
 title: "아이유 - 〈관객이 될게〉"
 featured: true
 weight: 4
-
+share: false
 #authors:
 #  - me
 

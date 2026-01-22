@@ -2,7 +2,7 @@
 title: "아이유 -〈밤산책〉"
 featured: true
 weight: 1
-
+share: false
 #authors:
 #  - me
 

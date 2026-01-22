@@ -2,7 +2,7 @@
 title: "정승환 -〈미완성〉"
 featured: true
 weight: 2
-
+share: false
 #authors:
 #  - me
 

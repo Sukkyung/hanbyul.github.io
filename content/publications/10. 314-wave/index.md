@@ -2,7 +2,7 @@
 title: "삼점일사 -〈파도가 좋아〉"
 featured: true
 weight: 10
-
+share: false
 #authors:
 #  - me
 
