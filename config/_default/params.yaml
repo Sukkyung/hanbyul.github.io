@@ -116,7 +116,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   copyright:
     # Copyright notice - supports {year}, {name}, {license} placeholders
-    notice: "© {2026} {Han Byul}. This work is licensed under {CC BY NC ND 4.0}"
+    notice: "© 2026 Han Byul. This work is licensed under CC BY NC ND 4.0"
     license:
       type: cc                          # cc | custom
       allow_derivatives: false
