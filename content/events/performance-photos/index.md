@@ -3,14 +3,15 @@ title: "수업 및 연주 사진"
 featured: true
 weight: 1
 share: false
-event: false
-show_date: false
-authors:
-  - me
+#authors:
+#  - me
 
-#summary: ""
+summary: ""   # 카드에 설명 안 보이게
+tags: []      # 태그 안 쓰면 비워도 됨
+
 image:
   caption: ""
+  preview_only: false
 ---
 
 ![](KakaoTalk1.jpg) 

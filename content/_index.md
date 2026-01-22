@@ -122,14 +122,16 @@ sections:
     content:
       title: 🎞️ 사진
       count: 0
-      sort_by: weight
-      sort_order: asc
       filters:
         folders:
           - events
+        featured_only: true
     design:
-      view: card
-      columns: 4
+      view: article-grid
+      columns: 1
+      show_date: false          # ← 날짜 숨김
+      show_reading_time: false  # ← "1분 읽기" 숨김
+      show_authors: false       # ← (선택) 한별 이름도 숨김
 
 
 #  - block: cta-card
