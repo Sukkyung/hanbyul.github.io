@@ -1,5 +1,5 @@
 ---
-title: 🎞️ 사진
+title: 🎞️ 사진 모음
 cms_exclude: true
 
 # View.

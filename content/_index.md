@@ -123,7 +123,7 @@ sections:
   - block: collection
     id: photos
     content:
-      title: 🎞️ 사진
+      title: 🎞️ 사진 모음
       count: 0
       filters:
         folders:
