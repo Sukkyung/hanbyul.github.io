@@ -18,16 +18,6 @@ sections:
         education: "Professional"    # (이미 한 것)
 #        interests: ""    # (있다면 같이)
       show_about: false  # ← 이 한 줄이 핵심 (아이콘까지 제거)
-    design:
-        background:
-          gradient_mesh:
-            enable: true
-        columns: '2'
-        spacing:
-          padding: ['2rem','0','1rem','0']   # (선택) 위/아래 패딩도 같이 줄이기
-
-
-
 
     # ✅ 여기부터가 핵심: bio를 me.yaml에서 읽지 말고,
     # 이 블록 text로 직접 표시하게 함 (문단 유지)
@@ -53,6 +43,8 @@ sections:
         gradient_mesh:
           enable: true
       columns: '2'
+      spacing:
+        padding: ['2rem','0','1rem','0']
 
   - block: markdown
     id: education
